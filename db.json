@@ -1,0 +1,74 @@
+{
+    "HaNoi": [
+        {
+            "id": 1,
+            "description": "Well, The ancient art form of water puppetry has long been associated with Hanoi. Watch as puppets dance elegantly, controlled by a whole troupe of puppet masters, telling a story of the famous Legend of the Restored Sword of King Le which is about Hoan Kiem Lake and the giant tortoise."
+        },
+        {
+            "id": 2,
+            "description": "I believe that you should go to Hoan Kiem Lake (Turtle Lake) which is a popular hangout spot for locals and foreigners alike. On an island in the center lies Ngoc Son Temple, linked by a graceful red bridge. This serves as a beautiful background for photos, and perhaps you may even catch couples doing their engagement photoshoots."
+        },
+        {
+            "id": 3,
+            "description": "I personally recommend you Dong Xuan Market which is the largest market in Hanoi. Four storeys tall, you can find all sorts of apparel, electronic items and food. Great for some shopping or to just experience the day-to-day life of the locals. You can practice some bargaining here as it is a popular tourist market, and prices quoted may be slightly inflated."
+        },
+        {
+            "id": 4,
+            "description": "Have you ever heard about Hanoi Opera House which was built in 1911, this is one of the most elegant buildings in all of Hanoi. Visitors can enjoy opera and dance performances to this day. It was modeled after the Paris Opera House, and the intricate design is even more beautiful at night when the cream-colored floodlights get turned on."
+        }
+    ],
+    "HoChiMinh": [
+        {
+            "id": 1,
+            "description": "The War Remnants Museum is one of the most moving sights in Ho Chi Minh City and is dedicated to educating visitors about the atrocities of the Vietnam War. This is one of the most popular museums in all of Vietnam and more than half a million visitors come here every year. Some of the items on display include old military vehicles like Huey helicopters as well as attack bombers and M48 Patton tanks. Inside you will also find personal memorabilia of victims of the war as well as old photographs."
+        },
+        {
+            "id": 2,
+            "description": "Ho Chi Minh City may be full of traffic, crowded and hot. But there’s much more to it than these generalisations. Being patient with the Vietnamese city will lead you to temples, French colonial architecture and serene neighbourhoods, far from the chaos. Here are 20 must-visit attractions in Ho Chi Minh City."
+        },
+        {
+            "id": 3,
+            "description": "I personally recommend you The Saigon River, with its constantly running ferries, river taxis, and motor-canoes, offers one of the most tempting invitations to the city’s sunset charms. And there is no better place than a seat at The Deck for a sunset cocktail."
+        },
+        {
+            "id": 4,
+            "description": "You can get a glimpse of what the local art scene looks like and what local artists are up to at HCMC Museum of Fine Arts. This dauntingly huge complex with an appealing mix of French and Chinese architectural styles was owned by a Chinese-born businessman who was known as one of the city’s richest men at the time it was constructed."
+        },
+        {
+            "id": 5,
+            "description": "You can get a glimpse of what the local art scene looks like and what local artists are up to at HCMC Museum of Fine Arts. This dauntingly huge complex with an appealing mix of French and Chinese architectural styles was owned by a Chinese-born businessman who was known as one of the city’s richest men at the time it was constructed."
+        }
+    ],
+    "Hue": [
+        {
+            "id": 1,
+            "description": "Have you ever hear? Top Vietnamese fashion designers flaunt their creativity by re-imagining traditional Ao Dais. In this popular show, designers use Vietnamese silk and Hue folk art to create gorgeous traditional wear. The elegant combination of modern Ao Dai styles and traditional art is easily one of the top things to see during the festival."
+        },
+        {
+            "id": 2,
+            "description": "The Hue Royal Inspiration performance depicts the history of Vietnam during the 19th century and is held inside the ancient citadel. History during this era will be told in a sequence of historical events that explore the festival’s 2018 theme, which highlights Hue’s five UNESCO-recognized heritages: Hue monuments, Royal Court music, The Nguyen Dynasty woodblocks, Imperial Archives of the Nguyen Dynasty, and Literature of Hue Royal Architecture. The story is told through dramatic music and dance and it’s a unique experience to see the history of Hue condensed into a (relatively) short, beautiful performance."
+        },
+        {
+            "id": 3,
+            "description": "If you’re not in the mood to attend a ticketed event, you’ll be hard-pressed to wander Hue’s lovely streets without encountering fascinating outdoor art exhibits, installations, and games that inevitably capture a bystander’s attention. This year there are human chess games, dragon boat races, colorful displays (with a selfie line-up or two), and delicious food stalls decorating the city. It really is a cultural spectacle that showcases hundreds of talented Vietnamese artists. There is also a hot air balloon show!"
+        }
+    ],
+    "DaNang": [
+        {
+            "id": 1,
+            "description": "Recognized as a UNESCO World Heritage site, the My Son Sanctuary is a large cluster of abandoned Hindu temples, constructed between the 4th and the 14th centuries A.D. by the Champa civilization. They are referred to as the Angkor Wat of Vietnam. The ruins are both enchanting and photogenic, as they are overgrown with weeds and surrounded by mountains."
+        },
+        {
+            "id": 2,
+            "description": "Ba Na Hills is a French hill station resort located on a mountain. You will find structures that resemble French castles, as well as gorgeous courtyards, cobblestone streets, giant Buddha statues, underground wine cellars, Asia’s longest cable car ride, beautiful nature, and sweeping views."
+        },
+        {
+            "id": 3,
+            "description": "The Marble Mountains are a cluster of five unique conical-shape limestone mountains that are home to a labyrinth of tunnels, pagodas, and caves. There are plenty of awesome views of the beautiful Danang coast for you to snap photos of."
+        },
+        {
+            "id": 4,
+            "description": "My Khe Beach has developed a reputation for being one of the most luxurious beaches in Vietnam. Spend your time sunbathing or partaking in watersports while snapping some adventurous Instagram shots."
+        }
+    ]
+}
