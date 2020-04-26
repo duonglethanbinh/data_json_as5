@@ -1,0 +1,35 @@
+{
+    "Location": [
+        {
+            "id": "HaNoi",
+            "name": "Ha Noi City",
+            "image": "https://vietnam.travel/sites/default/files/styles/top_banner/public/2017-06/vietnam-travel-5.jpg?itok=XVnHP3ty"
+        },
+        {
+            "id": "HoChiMinh",
+            "name": "Ho Chi Minh City",
+            "image": "https://vietnam.travel/sites/default/files/styles/article_photo_large/public/2017-11/things%20to%20do%20in%20hcmc-10.jpg?itok=xC-3aqm6"
+        },
+        {
+            "id": "Hue",
+            "name": "Hue City",
+            "image": "https://vietnam.travel/sites/default/files/styles/article_photo_large/public/2017-11/things%20to%20do%20in%20hue%20vietnam.jpg?itok=USd747VZ"
+        },
+        {
+            "id": "DaNang",
+            "name": "Da Nang City",
+            "image": "https://vietnam.travel/sites/default/files/styles/article_photo_large/public/2017-11/Danang%20guide%20vietnam%20tourism_0.jpg?itok=RWXmsdWa"
+        },
+        {
+            "id": "QuangBinh",
+            "name": "Quang Binh",
+            "image": "https://vietnam.travel/sites/default/files/styles/article_photo_large/public/2017-11/things%20to%20do%20in%20phong%20nha-2_0.jpg?itok=NTVq-NbK"
+        },
+        {
+            "id": "Sapa",
+            "name": "Sapa",
+            "image": "https://vietnam.travel/sites/default/files/styles/article_photo_large/public/2017-11/things%20to%20do%20in%20sapa-7.jpg?itok=M8t0qL_t"
+        }
+
+    ]
+}
