@@ -1,0 +1,54 @@
+[
+    {
+        "id": "1",
+        "name": "Ha Noi",
+        "image": "https://vietnam.travel/sites/default/files/styles/top_banner/public/2017-06/vietnam-travel-5.jpg?itok=XVnHP3ty",
+        "description": [
+            {
+                "title": "Sample the street food",
+                "content": "A wander around a morning market provides a tantalising hint of what you can expect to hit your table in Hanoi. For an authentic taste of Hanoi, look no further than the street kitchens of the Old Quarter. Phở noodle soup is king of cuisines here, with steaming pots of its star anise-infused broth simmering on every corner; while every day, the irresistible scent of bún chả fills the air as barbecued pork sizzles over hot coals. In recent years a growing band of superb international dining rooms have emerged, serving everything from contemporary tapas to fusion fare."
+            },
+            {
+                "title": "Stroll the Old Quarter",
+                "content": "Hanoi’s Old Quarter serves up a sensory overload for the eyes, ears and nose. Wisps of incense drift out onto streets from ancient temples painted a riot of reds and oranges, while in a far-flung corner the clang of a blacksmith’s hammer mingles with a mobile fruit seller’s call. To fully immerse yourself, grab a map to explore. Or jump in a cyclo and take a tour of this intoxicating maze of markets, street kitchens, shop houses, and more."
+            },
+            {
+                "title": "Explore Hanoi's cafe culture",
+                "content": "It is by taking a seat and waiting as your coffee slowly filters that the Vietnamese capital can best be understood. Fast-paced on the surface, the true rhythm of city life is far from hurried. Alongside the thousands of coffee houses selling traditional Vietnamese coffee, an ever-growing band of unique coffee shops serve espressos and macchiatos in surroundings rivaling the world’s coolest caffeine dens."
+            },
+            {
+                "title": "Check out the art scene",
+                "content": "Hanoi has long had a reputation as Vietnam’s art capital, with the elegant Fine Arts Museum housing the country’s foremost collection, including ancient Cham artifacts and impressionist pieces. For something more contemporary, head for Manzi--an art space-cum-cafe--or the Vietnam Art Gallery. Both are top places to take the pulse of the city’s art scene. Smaller gallery spaces include Nha San Collective at the up-and-coming Hanoi Creative City urban project."
+            },
+            {
+                "title": "Join the locals at Hoan Kiem Lake",
+                "content": "Hoan Kiem lake rests at the heart of Hanoi and embodies the soul of the city. Every morning it comes alive with walkers, aerobics classes, badminton, ballroom dancers, and even a laughing yoga group. It bursts back into life at sunset, and after dark, is again thronged with locals out to take the evening air. A little further north the lesser-visited Truc Bach and West Lake shouldn’t be missed--their calm temples and lakeside cafes provide peaceful enclaves away from the buzz of downtown."
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Ho Chi Minh",
+        "image": "https://vietnam.travel/sites/default/files/styles/article_photo_large/public/2017-11/things%20to%20do%20in%20hcmc-10.jpg?itok=xC-3aqm6"
+    },
+    {
+        "id": "3",
+        "name": "Hue",
+        "image": "https://vietnam.travel/sites/default/files/styles/article_photo_large/public/2017-11/things%20to%20do%20in%20hue%20vietnam.jpg?itok=USd747VZ"
+    },
+    {
+        "id": "4",
+        "name": "Da Nang",
+        "image": "https://vietnam.travel/sites/default/files/styles/article_photo_large/public/2017-11/Danang%20guide%20vietnam%20tourism_0.jpg?itok=RWXmsdWa"
+    },
+    {
+        "id": "5",
+        "name": "Quang Binh",
+        "image": "https://vietnam.travel/sites/default/files/styles/article_photo_large/public/2017-11/things%20to%20do%20in%20phong%20nha-2_0.jpg?itok=NTVq-NbK"
+    },
+    {
+        "id": "6",
+        "name": "Sapa",
+        "image": "https://vietnam.travel/sites/default/files/styles/article_photo_large/public/2017-11/things%20to%20do%20in%20sapa-7.jpg?itok=M8t0qL_t"
+    }
+]
